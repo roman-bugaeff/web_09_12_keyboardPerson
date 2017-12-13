@@ -1,0 +1,6 @@
+Roman;43;68.0;false
+Vasya;56;76.0;false
+Sasha;12;34.0;false
+Dimma;12;67.0;false
+Kostya;34;54.0;true
+Alex;34;88.0;true
